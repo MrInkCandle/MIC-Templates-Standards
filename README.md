@@ -1,1 +1,0 @@
-# MIC-Templates-Standards
