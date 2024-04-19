@@ -2,6 +2,7 @@
 #include<climits>     // Including common type size
 #include<string>      // Cpp string
 
+using namespace std;
 
 { // Old
 #define TRUE 1
