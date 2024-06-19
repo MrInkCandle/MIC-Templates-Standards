@@ -1,6 +1,7 @@
 #include<iostream>    // IO
 #include<climits>     // Including common type size
 #include<string>      // Cpp string
+#include<cstdlib>     // EXIT_SUCCESS/FAILURE
 
 using namespace std;
 
